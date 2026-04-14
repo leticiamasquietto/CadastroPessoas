@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\layout_activity_confirm.xml.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\layout\\activity_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\drawable_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\drawable\\baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\layout_activity_sobre.xml.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\layout\\activity_sobre.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\drawable_botao_retangular.xml.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\drawable\\botao_retangular.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.cadastropessoas.app-debug-42:/layout_activity_sobre.xml.flat",
+        "source": "com.example.cadastropessoas.app-main-44:/layout/activity_sobre.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-debug-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

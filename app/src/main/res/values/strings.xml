@@ -8,4 +8,10 @@
     <string name="sim">Sim</string>
     <string name="nao">Não</string>
     <string name="sucesso">Cadastro salvo com sucesso</string>
+    <string name="nome_trabalho">Cadastro de pessoas</string>
+    <string name="disciplina">Desenvolvimento de Aplicações Mobile I</string>
+    <string name="agda">Agda Beatriz Jedliczka Domingues</string>
+    <string name="agdaRA">RA: 60000631</string>
+    <string name="leticia">Letícia Masquietto de Oliveira Silva</string>
+    <string name="leticiaRA">RA: 603000765</string>
 </resources>

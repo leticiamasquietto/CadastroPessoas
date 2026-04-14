@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-mergeDebugResources-41:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-mergeDebugResources-41:\\layout\\activity_confirm.xml",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\layout\\activity_confirm.xml"
+    },
+    {
+        "merged": "com.example.cadastropessoas.app-mergeDebugResources-41:/layout/activity_sobre.xml",
+        "source": "com.example.cadastropessoas.app-main-44:/layout/activity_sobre.xml"
+    },
+    {
+        "merged": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-mergeDebugResources-41:\\layout\\activity_sobre.xml",
+        "source": "C:\\Users\\wwwcu\\.gradle\\daemon\\9.2.1\\com.example.cadastropessoas.app-main-44:\\layout\\activity_sobre.xml"
+    }
+]
